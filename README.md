@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/762309034832822283/767818688573079562/sdev.png">
-a
-### Hi there, welcome to my official GitHub profile! 👋
+
+## Hi there, welcome to my official GitHub profile! 👋
 My name is str0nix, here are some things about me:
 
 - 🔭 I’m currently working on NorthEmpire Network's Minecraft: Bedrock servers
