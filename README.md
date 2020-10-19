@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/762309034832822283/767818688573079562/sdev.png">
-<br />
+a
 ### Hi there, welcome to my official GitHub profile! 👋
 My name is str0nix, here are some things about me:
 
