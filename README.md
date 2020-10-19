@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my official GitHub profile! 👋
 My name is str0nix, here are some things about me:
 
 - 🔭 I’m currently working on NorthEmpire Network's Minecraft: Bedrock servers
