@@ -14,7 +14,7 @@ These listed plugins are created by me and you are able to use them on your own 
 
 <a href="https://github.com/str0nixofficial/FallOutClearInventory/releases/tag/1.1.1">- FallOutClearInventory (v1.1.0)</a> <b>-</b> <i>A PocketMine-MP plugin which clears your inventory and instantly drop back you to the server’s spawn if you fell out from the world.</i>
 
-<a href="https://github.com/str0nixofficial/SelfDamageBlocker/releases/tag/1.1.1">- SelfDamageBlocker (v1.0.0)</a> <b>-</b> <i>This plugin prevent players from damaging themselves. Recommended to use this plugin on PvP servers.</i>
+<a href="https://github.com/str0nixofficial/SelfDamageBlocker/releases/tag/1.0.0">- SelfDamageBlocker (v1.0.0)</a> <b>-</b> <i>This plugin prevent players from damaging themselves. Recommended to use this plugin on PvP servers.</i>
 
 ## My official Poggit plugins:
 These plugins are posted to Poggit and you are able to download them officially from Poggit.
