@@ -10,7 +10,7 @@ My name is str0nix, here are some things about me:
 I have few PocketMine-MP plugins which are posted to Poggit, you are able to download them from <a href="https://poggit.pmmp.io/plugins/by/str0nixofficial">here<a>.
 
 ## My plugins
-These listed plugins are created by me and you are able to use them on your own Minecraft: Bedrock server. You can download these plugins from it's GitHub repos. 
+These listed plugins are created by me and available for the public. You are able to use them on your own Minecraft: Bedrock server. You are able to download these plugins from it's GitHub repos. 
 
 <a href="https://github.com/str0nixofficial/FallOutClearInventory/releases/tag/1.1.1">- FallOutClearInventory (v1.1.0)</a> <b>-</b> <i>A PocketMine-MP plugin which clears your inventory and instantly drop back you to the server’s spawn if you fell out from the world.</i>
 
