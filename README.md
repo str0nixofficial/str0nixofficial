@@ -4,7 +4,7 @@
 My name is str0nix, here are some things about me:
 
 - 🔭 I’m currently working on NorthEmpire Network's Minecraft: Bedrock servers
-- 🌱 I’m currently learning HTML & CSS, PHP and PocketMine-MP API
+- 🌱 I’m currently learning HTML & CSS, Javascript, PHP and PocketMine-MP API
 - ⚡ I'm actually a hobby developer and I work in my free time
 
 I have few PocketMine-MP plugins which are posted to Poggit, you are able to download them from <a href="https://poggit.pmmp.io/plugins/by/str0nixofficial">here<a>.
